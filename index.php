@@ -37,11 +37,11 @@
             </div>    
             <div class="box">
                  <nav>
-                   <ul>
-                     <li><a href="#">Domů</a></li>
-                     <li><a href="#">O nás</a></li>
-                     <li><a href="#">Projekty</a></li>
-                     <li><a href="#">Kontakty</a></li>
+                     <ul class="col-xs-7">
+                     <li class="col-xs-3"><a href="#">Domů</a></li>
+                     <li class="col-xs-3"><a href="#">O nás</a></li>
+                     <li class="col-xs-3"><a href="#">Projekty</a></li>
+                     <li class="col-xs-3"><a href="#">Kontakty</a></li>
                    </ul>                                                              
                   </nav>
             </div>
