@@ -1,0 +1,82 @@
+<<<<<<< HEAD
+body {
+    font-size: 1rem;
+    color: #373a3c;
+    background-color: #3498db;
+    height: 2000px;
+    width: 100%;
+}
+.header{
+    height: 275px;
+    background: url("../datagrid/img/black-boys.jpg");
+    z-index: 1;
+}
+.header-box-img{
+    height: 275px;
+    border-bottom-right-radius: 50px;
+    z-index: 0;
+}
+.middle{
+    height: 275px;
+}
+.middle .middle-top{
+    height: 50px;
+}
+.middle .middle-midle{
+    height: 25px;
+    background:
+        linear-gradient(to left top, rgba(52, 152, 219, 1) 0% , rgba(52, 152, 219, 1) 49% , rgba(169,68,66, 1) 51%, rgba(169,68,66, 1) 100%),
+        linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1));
+        border-top-right-radius: 50px;
+}
+.middle .middle-down{
+    background-color: #3498db;
+    height: 200px;
+    border-top-left-radius: 50px;
+}
+.header-addjust{
+    height: 275px;
+     border-bottom-left-radius: 50px;
+=======
+body {
+    font-size: 1rem;
+    color: #373a3c;
+    background-color: #3498db;
+    height: 2000px;
+    width: 100%;
+}
+.header{
+    height: 275px;
+     background-color: #3498db;
+}
+.header-box-img{
+    background-color: #a94442;
+    height: 275px;
+    border-bottom-right-radius: 50px;
+}
+.middle{
+    background-color: #a94442;
+    height: 275px;
+}
+.middle .middle-top{
+    background-color: #a94442;
+    height: 50px;
+}
+.middle .middle-midle{
+    height: 25px;
+    background:
+        linear-gradient(to left top, rgba(52, 152, 219, 1) 0% , rgba(52, 152, 219, 1) 49% , rgba(169,68,66, 1) 51%, rgba(169,68,66, 1) 100%),
+        linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1));
+        border-top-right-radius: 50px;
+}
+.middle .middle-down{
+    background-color: #3498db;
+    height: 200px;
+    border-top-left-radius: 50px;
+}
+.header-addjust{
+    background-color: #a94442;
+    height: 275px;
+     border-bottom-left-radius: 50px;
+>>>>>>> origin/master
+}
