@@ -1,7 +1,7 @@
 body {
     font-size: 1rem;
-    color: #373a3c;
-    background-color: #3498db;
+    color: #fff;
+    background-color: #333333;
     height: 2000px;
     width: 100%;
 }
@@ -42,10 +42,14 @@ body {
     height: 275px;
      border-bottom-left-radius: 50px;
 }
+ul{
+    background: blue;
+}
 ul {
     display: inline-block;
     list-style-type: none;
 }
+ul li ul li a {display:block ;}
 li {
     display: inline;
     margin-top: 15px;
@@ -53,15 +57,22 @@ li {
     border-radius: 100px;
         
 }
-li a {
-    color: #000;
+a li {
+    color: rgb(220,220,220);;
     text-decoration: none;
 }
-li a:hover {
-    background-color: rgba(72, 172, 239, 1);
-    color: white;
+a li:hover {
+    background-color: rgb(100,100,100);
+    color: rgb(5,5,5);
     border-radius: 100px;
 }
-.nav-item{
-   
+.nevim{
+    text-align: center;
+}
+.left-main-box{
+    border: 1px solid black;
+    margin-top:30px;
+    font-style: italic;
+    font-family: initial;
+    background: red;
 }
