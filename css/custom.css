@@ -34,6 +34,10 @@ body {
     height: 200px;
     border-top-left-radius: 50px;
 }
+.repair{
+    background:  #3498db;
+    height: 25px;
+}
 .header-addjust{
     height: 275px;
      border-bottom-left-radius: 50px;
@@ -41,8 +45,6 @@ body {
 ul {
     display: inline-block;
     list-style-type: none;
-    margin: 10px;
-    padding: 10px;
 }
 li {
     display: inline;
@@ -53,7 +55,6 @@ li {
 }
 li a {
     color: #000;
-    padding: 25px 25px;
     text-decoration: none;
 }
 li a:hover {

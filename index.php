@@ -23,10 +23,12 @@
                         <div class="middle col-xs-4">
                           <div class="row">
                            <div class="middle-top col-xs-12"></div> 
-                           <div class="middle-midle offset-xs-1 col-xs-11"></div>
+                           <div class="middle-midle hidden-md-down offset-md-1 col-md-11"></div>
                            <div class="middle-down col-xs-12">
                               
+                              
                            </div>
+                           <div class="repair hidden-md-up col-xs-12"></div>  
                           </div> 
                         </div>
                         <div class="header-addjust col-xs-1">
@@ -37,11 +39,11 @@
             </div>    
             <div class="box">
                  <nav>
-                     <ul class="col-xs-7">
-                     <li class="col-xs-3"><a href="#">Domů</a></li>
-                     <li class="col-xs-3"><a href="#">O nás</a></li>
-                     <li class="col-xs-3"><a href="#">Projekty</a></li>
-                     <li class="col-xs-3"><a href="#">Kontakty</a></li>
+                     <ul class="col-xs-12 col-sm-12 col-md-7">
+                     <li class="col-xs-12 col-sm-12 col-md-3 col"><a href="#">Domů</a></li>
+                     <li class="col-xs-12 col-sm-12 col-md-3"><a href="#">O nás</a></li>
+                     <li class="col-xs-12 col-sm-12 col-md-3"><a href="#">Projekty</a></li>
+                     <li class="col-xs-12 col-sm-12 col-md-3"><a href="#">Kontakty</a></li>
                    </ul>                                                              
                   </nav>
             </div>
