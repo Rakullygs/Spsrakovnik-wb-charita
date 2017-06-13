@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="../css/bootstrap/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="../css/custom.css"
      <link rel="stylesheet" href="../source/font-awesome/css/font-awesome.min.css">
+     <link rel="stylesheet" href="../source/font-awesome/css/font-awesome.css">
     </head>
  <?php require "logo.php"; ?>
  <?php require "nav.php"; ?>
