@@ -1,7 +1,7 @@
 body {
     font-size: 1rem;
     color: #fff;
-    background-color: #333333;
+    background: url("../datagrid/img/core-pozadi.jpg");
     width: 100%;
 }
 .header{
