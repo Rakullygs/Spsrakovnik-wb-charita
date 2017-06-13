@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="header col-xs-12">
                     <div class="row">      
-                        <div class="header-box-img col-sm-7 col-xs-12"><h2 class="Naspis-phone hidden-lg-up">Charina na děti z Keni</h2> <small class="podtext-phone hidden-lg-up hidden-xs-down">pomocte těm co to potřebijí</small></div>
+                        <div class="header-box-img col-sm-7 col-xs-12"><h2 class="Naspis-phone hidden-lg-up">Charita na děti z Keni</h2> <small class="podtext-phone hidden-lg-up hidden-xs-down">pomocte těm co to potřebují</small></div>
                         <div class="middle col-xs-4 hidden-xs-down">
                           <div class="row">
                            <div class="middle-top col-xs-12"></div> 

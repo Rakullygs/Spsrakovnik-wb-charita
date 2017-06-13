@@ -12,24 +12,55 @@
     </head>
  <?php require "logo.php"; ?>
  <?php require "nav.php"; ?>
-    <div class="col-md-4 vyrovnavac"></div>
-    <div class="lide">
-         <div class="left-contact col-xs-11 col-sm-12  col-md-4">
+    <div class="lide col-xs-11 col-sm-12 hidden-sm-down">
+         <div class="left-contact col-xs-11 col-sm-12">
              <p class="text-lide">  Petr Nový<br>
              Hlavní ředitel<br>
              +420 <?php echo rand(100,999) . "\n";echo rand(100,999) . "\n";echo rand(100,999);?><br>
             </p>         
          </div>
-         <div class="mid-contact col-xs-11 col-sm-12 col-md-4">
+         <div class="mid-contact col-xs-11 col-sm-12">
              <p class="text-lide">  Jana Prášilová<br>
              Hlavní vedoucí<br>
              +420 <?php echo rand(100,999) . "\n";echo rand(100,999) . "\n";echo rand(100,999);?><br>
              </p>
         </div>
-        <div class="right-contact col-xs-11 col-sm-12 col-md-4 ">
+        <div class="right-contact col-xs-11 col-sm-12">
+            <p class="text-lide">  Petr Pravý<br>
+             Vedoucí projekru<br>
+             +420 <?php echo rand(100,999) . "\n";echo rand(100,999) . "\n";echo rand(100,999);?><br>
+            </p> 
+        </div> 
+        <div class="xright-contact col-xs-11 col-sm-12">
+            <p class="text-lide">  Aleš Nový<br>
+             Hlavní partner<br>
+             +420 <?php echo rand(100,999) . "\n";echo rand(100,999) . "\n";echo rand(100,999);?><br>
+            </p> 
+        </div>
+    </div>
+    <div class="lide col-xs-11 col-sm-12 hidden-md-up">
+         <div class="left-contact-m col-xs-11 col-sm-12">
+             <p class="text-lide">  Petr Nový<br>
+             Hlavní ředitel<br>
+             +420 <?php echo rand(100,999) . "\n";echo rand(100,999) . "\n";echo rand(100,999);?><br>
+            </p>         
+         </div>
+         <div class="mid-contact-m col-xs-11 col-sm-12">
+             <p class="text-lide">  Jana Prášilová<br>
+             Hlavní vedoucí<br>
+             +420 <?php echo rand(100,999) . "\n";echo rand(100,999) . "\n";echo rand(100,999);?><br>
+             </p>
+        </div>
+        <div class="right-contact-m col-xs-11 col-sm-12">
             <p class="text-lide">  Petr Pravý<br>
              Vedoucí projekru<br>
              +420 <?php echo rand(100,999) . "\n";echo rand(100,999) . "\n";echo rand(100,999);?><br>
             </p> 
         </div>    
+        <div class="xright-contact-m col-xs-11 col-sm-12">
+            <p class="text-lide">  Aleš Nový<br>
+             Hlavní partner<br>
+             +420 <?php echo rand(100,999) . "\n";echo rand(100,999) . "\n";echo rand(100,999);?><br>
+            </p> 
+        </div>
     </div>
