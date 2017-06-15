@@ -9,8 +9,8 @@
      <link rel="stylesheet" href="../source/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../source/font-awesome/css/font-awesome.css">
     </head>
- <?php require "logo.php"; ?>
- <?php require "nav.php"; ?>
+ <?php require_once "logo.php"; ?>
+ <?php require_once "nav.php"; ?>
 
     <div class="col-xs-12 col-md-12">
         <div class="col-xs-12 Naspis"><h1>Vše o nás</h1></div>

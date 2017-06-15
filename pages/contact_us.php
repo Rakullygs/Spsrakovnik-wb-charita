@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="../source/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../source/font-awesome/css/font-awesome.css">
     </head>
- <?php require "logo.php"; ?>
- <?php require "nav.php"; ?>
+ <?php require_once "logo.php"; ?>
+ <?php require_once "nav.php"; ?>
     <div class="lide col-xs-11 col-sm-12 hidden-sm-down">
          <div class="left-contact col-xs-11 col-sm-12">
              <p class="text-lide">  Petr Nový<br>
